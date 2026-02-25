@@ -1,3 +1,4 @@
 "test" 
 "Line 1 from branch1" 
 "Line 2 from branch1" 
+"Line 3 from branch1" 
